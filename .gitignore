@@ -1,0 +1,5 @@
+.conda
+config/setting.ini
+logs/*
+data/*
+__pycache__
