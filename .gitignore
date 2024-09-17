@@ -1,4 +1,5 @@
 .conda
 config/setting.ini
 *.log
+data/*
 __pycache__
